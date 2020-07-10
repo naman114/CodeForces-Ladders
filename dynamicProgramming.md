@@ -4,7 +4,7 @@
 | 2 | [Even Subset Sum Problem](https://codeforces.com/contest/1323/problem/A) | 800 | AC |  |
 | 3 | [Card Constructions](https://codeforces.com/contest/1345/problem/B) | 1100 | AC |  |
 | 4 | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 | AC | Bitmasking done using bitset |
-| 5 | [Cutting](https://codeforces.com/contest/998/problem/B) | 1200 |  |  |
+| 5 | [Cutting](https://codeforces.com/contest/998/problem/B) | 1200 | AC | Greedy and DP both possible. First DP sol :) |
 | 6 | [Creating the Contest](https://codeforces.com/contest/1029/problem/B) | 1200 |  |  |
 | 7 | [Ternary String](https://codeforces.com/contest/1354/problem/B) | 1200 |  |  |
 | 8 | [Restricted RPS](https://codeforces.com/contest/1245/problem/B) | 1200 |  |  |
